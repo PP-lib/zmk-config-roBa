@@ -91,10 +91,10 @@
 
         FUNCTION {
             bindings = <
-&kp ESCAPE        &kp SQT            &kp LCTRL          &kp EQUAL       &kp PLUS                                  &kp ASTERISK  &kp N7  &kp N8  &kp N9        &kp UNDERSCORE
-&kp HASH          &kp DOUBLE_QUOTES  &kp DOUBLE_QUOTES  &kp AMPERSAND   &trans       &trans      &kp LC(K_COPY)   &kp SLASH     &kp N4  &kp N5  &kp NUMBER_6  &kp COLON
-&kt LEFT_BRACKET  &kt RIGHT_BRACKET  &kt LS(COMMA)      &kt LS(PERIOD)  &kp AT_SIGN  &trans      &kp LC(K_PASTE)  &kp N0        &kp N1  &kp N2  &kp N3        &kp QUESTION
-&kp CAPSLOCK      &trans             &trans             &trans          &trans       &trans      &trans           &trans                                      &kp PERIOD
+&kp ESCAPE    &kp SQT            &kp LCTRL          &kp EQUAL       &kp PLUS                                  &kp ASTERISK  &kp N7  &kp N8  &kp N9        &kp UNDERSCORE
+&kp HASH      &kp DOUBLE_QUOTES  &kp DOUBLE_QUOTES  &kp AMPERSAND   &trans       &trans      &kp LC(K_COPY)   &kp SLASH     &kp N4  &kp N5  &kp NUMBER_6  &kp COLON
+&trans        &trans             &kt LS(COMMA)      &kt LS(PERIOD)  &kp AT_SIGN  &trans      &kp LC(K_PASTE)  &kp N0        &kp N1  &kp N2  &kp N3        &kp QUESTION
+&kp CAPSLOCK  &trans             &trans             &trans          &trans       &trans      &trans           &trans                                      &kp PERIOD
             >;
         };
 
